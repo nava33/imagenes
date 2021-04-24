@@ -2,4 +2,4 @@
 varias imagenes
 
 
-<img src="/docs/logo.png" alt="My cool logo"/>
+<img src="https://github.com/nava33/imagenes/logoflutter.png" alt="My cool logo"/>
